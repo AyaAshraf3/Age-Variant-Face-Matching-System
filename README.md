@@ -53,6 +53,11 @@ The verification pipeline operates as follows:
     pip install -r requirements.txt
     ```
 
+3. **Download The Age Estimation Model:**
+    Download the age estimation model in `.keras` format from this drive url :
+    https://drive.google.com/file/d/16QL8aPsKRTCHZFJqgfopptngWarm43yB/view?usp=sharing
+    and put it in your project folder path
+
 ## How to Run
 
 ### 1. Prepare Your Age Model
@@ -72,3 +77,5 @@ python age_invariant_verification.py \
 ```
 The script will process the images and display the final result plot.
 
+### NOTE:
+Instead of running the Verification Script, you can also run the last cell in `Age-Variant Face Matching System` after adding the Path for the age estimation model and two images.
