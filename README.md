@@ -78,4 +78,4 @@ python age_invariant_verification.py \
 The script will process the images and display the final result plot.
 
 ### NOTE:
-Instead of running the Verification Script, you can also run the last cell in `Age-Variant Face Matching System` after adding the Path for the age estimation model and two images.
+Instead of running the Verification Script, you can also run the last cell in `Age-Variant Face Matching System.ipynb` after adding the Path for the age estimation model and two images.
